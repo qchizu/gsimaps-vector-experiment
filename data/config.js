@@ -621,7 +621,7 @@ GSIBV.CONFIG.MENU = [
 
 GSIBV.CONFIG.GSIMAPLAYERS = [
   {
-		"url":"https://maps.qchizu.xyz/layers_txt/layers99.txt"
+		"url":"https://qchizu.github.io/qchizu/layers_txt/layers99.txt"
 	},
   {
     "url": 'https://maps.gsi.go.jp/layers_txt/layers1.txt'
